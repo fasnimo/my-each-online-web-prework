@@ -9,4 +9,4 @@ end
 collection
 end 
 
-my_each(collection) {|num| puts num }
+my_each(collection) {|num|  num }
